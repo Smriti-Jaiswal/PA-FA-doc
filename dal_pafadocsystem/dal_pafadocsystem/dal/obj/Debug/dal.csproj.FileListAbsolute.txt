@@ -1,0 +1,81 @@
+E:\DAL\dal\dal\bin\Debug\dal.dll
+E:\DAL\dal\dal\bin\Debug\dal.pdb
+E:\DAL\dal\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+E:\DAL\dal\dal\obj\Debug\dal.dll
+E:\DAL\dal\dal\obj\Debug\dal.pdb
+G:\E Drive\DAL\dal\dal\bin\Debug\dal.dll
+G:\E Drive\DAL\dal\dal\bin\Debug\dal.pdb
+G:\E Drive\DAL\dal\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+G:\E Drive\DAL\dal\dal\obj\Debug\dal.dll
+G:\E Drive\DAL\dal\dal\obj\Debug\dal.pdb
+E:\dal\dal\obj\Debug\dal.dll
+E:\dal\dal\obj\Debug\dal.pdb
+E:\dal\dal\bin\Debug\dal.dll
+E:\dal\dal\bin\Debug\dal.pdb
+E:\dal\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+E:\dal_lincolneduonlinev1.0\dal\bin\Debug\dal.dll
+E:\dal_lincolneduonlinev1.0\dal\bin\Debug\dal.pdb
+E:\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.dll
+E:\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.pdb
+F:\SUBHADIP\Subhadip\new_office_software\dal_lincolneduonlinev1.0\dal\bin\Debug\dal.dll
+F:\SUBHADIP\Subhadip\new_office_software\dal_lincolneduonlinev1.0\dal\bin\Debug\dal.pdb
+F:\SUBHADIP\Subhadip\new_office_software\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.dll
+F:\SUBHADIP\Subhadip\new_office_software\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.pdb
+F:\SUBHADIP\Subhadip\new_office_software\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+F:\dal_lincolneduonlinev1.0\dal\bin\Debug\dal.dll
+F:\dal_lincolneduonlinev1.0\dal\bin\Debug\dal.pdb
+F:\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+F:\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.dll
+F:\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.pdb
+F:\project_lincolneduonlinev1.0\dal_lincolneduonlinev1.0\dal\bin\Debug\dal.dll
+F:\project_lincolneduonlinev1.0\dal_lincolneduonlinev1.0\dal\bin\Debug\dal.pdb
+F:\project_lincolneduonlinev1.0\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.dll
+F:\project_lincolneduonlinev1.0\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.pdb
+F:\project_lincolneduonlinev1.0\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+D:\project_lincolneduonlinev1.0\dal_lincolneduonlinev1.0\dal\bin\Debug\dal.dll
+D:\project_lincolneduonlinev1.0\dal_lincolneduonlinev1.0\dal\bin\Debug\dal.pdb
+D:\project_lincolneduonlinev1.0\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+D:\project_lincolneduonlinev1.0\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.dll
+D:\project_lincolneduonlinev1.0\dal_lincolneduonlinev1.0\dal\obj\Debug\dal.pdb
+D:\project_onlinelearningv1.0\dal_onlinelearningv1.0\dal\bin\Debug\dal.dll
+D:\project_onlinelearningv1.0\dal_onlinelearningv1.0\dal\bin\Debug\dal.pdb
+D:\project_onlinelearningv1.0\dal_onlinelearningv1.0\dal\obj\Debug\dal.dll
+D:\project_onlinelearningv1.0\dal_onlinelearningv1.0\dal\obj\Debug\dal.pdb
+D:\project_lucevaluationv1.0\dal_lucevaluationv1.0\dal\bin\Debug\dal.dll
+D:\project_lucevaluationv1.0\dal_lucevaluationv1.0\dal\bin\Debug\dal.pdb
+D:\project_lucevaluationv1.0\dal_lucevaluationv1.0\dal\obj\Debug\dal.dll
+D:\project_lucevaluationv1.0\dal_lucevaluationv1.0\dal\obj\Debug\dal.pdb
+D:\project_lucevaluationv1.0\dal_lucevaluationv1.0\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+D:\project_lucpgonlinev1.0\dal_lucpgonlinev1.0\dal\bin\Debug\dal.dll
+D:\project_lucpgonlinev1.0\dal_lucpgonlinev1.0\dal\bin\Debug\dal.pdb
+D:\project_lucpgonlinev1.0\dal_lucpgonlinev1.0\dal\obj\Debug\dal.dll
+D:\project_lucpgonlinev1.0\dal_lucpgonlinev1.0\dal\obj\Debug\dal.pdb
+D:\project_lucpgonlinev1.0\dal_lucpgonlinev1.0\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+\\10.10.10.80\project_lucpgonlinev1.0\dal_lucpgonlinev1.0\dal\bin\Debug\dal.dll
+\\10.10.10.80\project_lucpgonlinev1.0\dal_lucpgonlinev1.0\dal\bin\Debug\dal.pdb
+\\10.10.10.80\project_lucpgonlinev1.0\dal_lucpgonlinev1.0\dal\obj\Debug\dal.csprojResolveAssemblyReference.cache
+\\10.10.10.80\project_lucpgonlinev1.0\dal_lucpgonlinev1.0\dal\obj\Debug\dal.dll
+\\10.10.10.80\project_lucpgonlinev1.0\dal_lucpgonlinev1.0\dal\obj\Debug\dal.pdb
+D:\PHD\dal_lucpgonlinev1.0\dal\bin\Debug\dal.dll
+D:\PHD\dal_lucpgonlinev1.0\dal\bin\Debug\dal.pdb
+D:\PHD\dal_lucpgonlinev1.0\dal\obj\Debug\dal.csprojAssemblyReference.cache
+D:\PHD\dal_lucpgonlinev1.0\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+D:\PHD\dal_lucpgonlinev1.0\dal\obj\Debug\dal.dll
+D:\PHD\dal_lucpgonlinev1.0\dal\obj\Debug\dal.pdb
+D:\Applications\PHD 18112020\PHD\PHD\dal_lucpgonlinev1.0\dal\bin\Debug\dal.dll
+D:\Applications\PHD 18112020\PHD\PHD\dal_lucpgonlinev1.0\dal\bin\Debug\dal.pdb
+D:\Applications\PHD 18112020\PHD\PHD\dal_lucpgonlinev1.0\dal\obj\Debug\dal.csprojAssemblyReference.cache
+D:\Applications\PHD 18112020\PHD\PHD\dal_lucpgonlinev1.0\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+D:\Applications\PHD 18112020\PHD\PHD\dal_lucpgonlinev1.0\dal\obj\Debug\dal.dll
+D:\Applications\PHD 18112020\PHD\PHD\dal_lucpgonlinev1.0\dal\obj\Debug\dal.pdb
+D:\Application\PHD\dal_lucpgonlinev1.0\dal\bin\Debug\dal.dll
+D:\Application\PHD\dal_lucpgonlinev1.0\dal\bin\Debug\dal.pdb
+D:\Application\PHD\dal_lucpgonlinev1.0\dal\obj\Debug\dal.csprojAssemblyReference.cache
+D:\Application\PHD\dal_lucpgonlinev1.0\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache
+D:\Application\PHD\dal_lucpgonlinev1.0\dal\obj\Debug\dal.dll
+D:\Application\PHD\dal_lucpgonlinev1.0\dal\obj\Debug\dal.pdb
+D:\Project PA FA Doc\dal_pafadocsystem\dal_pafadocsystem\dal\bin\Debug\dal.dll
+D:\Project PA FA Doc\dal_pafadocsystem\dal_pafadocsystem\dal\bin\Debug\dal.pdb
+D:\Project PA FA Doc\dal_pafadocsystem\dal_pafadocsystem\dal\obj\Debug\dal.dll
+D:\Project PA FA Doc\dal_pafadocsystem\dal_pafadocsystem\dal\obj\Debug\dal.pdb
+D:\Project PA FA Doc\dal_pafadocsystem\dal_pafadocsystem\dal\obj\Debug\dal.csproj.CoreCompileInputs.cache

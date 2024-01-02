@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback"/>
+    <link href="Content/plugins/fontawesome-free/css/all.min.css" rel="stylesheet" />
+    <link href="Content/plugins/icheck-bootstrap/icheck-bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/dist/css/adminlte.min.css" rel="stylesheet" />
+    <title></title>
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="hold-transition register-page">
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder id="MainContent" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <script src="Content/plugins/jquery/jquery.min.js"></script>
+    <script src="Content/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="Content/dist/js/adminlte.min.js"></script>
+</body>
+</html>
